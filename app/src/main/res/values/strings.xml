@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Search With Music</string>
+    <string name="search_text">Search Text</string>
+    <string name="google">Google</string>
+    <string name="yahoo">Yahoo</string>
+    <string name="bing">Bing</string>
+    <string name="browser">Browser</string>
+    <string name="activi">Activity</string>
+    <string name="choose">Choose one option</string>
+    <string name="wikipedia">WikiPedia</string>
+    <string name="lessless">Backward</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="moremore">Forward</string>
+
+</resources>

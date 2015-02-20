@@ -1,0 +1,2 @@
+C:\Users\miguel\AndroidstudioProjects\SearchWithMusic\app\build\intermediates\classes\debug
+C:\Users\miguel\AndroidstudioProjects\SearchWithMusic\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-bd792be7a78cfc339a0af6952ae9364b271ed3a2.jar
